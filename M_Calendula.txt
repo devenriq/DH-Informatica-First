@@ -1,2 +1,2 @@
-cabeza pies 
-manos hombros
+Torax, trapecios
+cuello, garganta
